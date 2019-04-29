@@ -11,3 +11,5 @@ cd img
 md images icons
 cd ../to_do
 cd > to_do.txt
+cd ../
+del Front-end_dir.bat
